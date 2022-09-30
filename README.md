@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá eu sou Kelvin Wevertor Costa Alves 😃</h1>
+<h1 align="center">👋 Olá eu sou Kelvin Costa 😃</h1>
 <h3 align="center">🧑‍🎓 Formado como Desenvolvedor Software Web na Trybe</h3>
 
 💡 Gosto muito de aprender tecnologias novas como **Node.JS e Vue.JS entre outras...**
