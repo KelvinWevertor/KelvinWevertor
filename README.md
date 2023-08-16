@@ -3,8 +3,6 @@
 
 💡 Gosto muito de aprender tecnologias novas como **Node.JS e Vue.JS entre outras...**
 
-👨‍💻 Portfólio: [https://kelvinwevertor.github.io/](https://kelvinwevertor.github.io/)
-
 📰 Gosto de assistir vídeos e ler as notícias do Olhar Digital para ficar sempre atualizado no mundo da tecnologia [https://olhardigital.com.br/editorias/noticias/](https://olhardigital.com.br/editorias/noticias/)
 
 🧑 Gosto de conhecer novas pessoas e passar por diversos desafios que me faça crescer profissionalmente. **Linguagem que mais estou gostando Python**
